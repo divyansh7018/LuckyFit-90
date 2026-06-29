@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LuckyFit 90</string>
+    <string name="title_activity_main">LuckyFit 90</string>
+    <string name="package_name">com.luckyfit90.app</string>
+    <string name="custom_url_scheme">com.luckyfit90.app</string>
+</resources>
