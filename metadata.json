@@ -1,0 +1,6 @@
+{
+  "name": "LuckyFit 90",
+  "description": "Transform Yourself in 90 Days - Premium fitness tracker with workout planner, diet planner, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
